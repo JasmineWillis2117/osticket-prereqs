@@ -12,7 +12,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Internet Information Services (IIS)
 
@@ -22,11 +22,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create Virtural Machine in Azure (Windows 10, 4vCPUs)
+- Connect ia Remote Desktop
+- Install files needed for osTicket
+- Install/Enable IIS in Windows with CGI, Common HTTP features and IIS Management Console
+- Install PHP Manager for IIS, Rewrite Module and create directory C:\PHP
+- Install files and download PHP files and unzip the contents into C:\PHP
+- Item 6
+- Item 7
+- Item 8
+- Item 9
 
 <h2>Installation Steps</h2>
 
