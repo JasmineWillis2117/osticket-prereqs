@@ -15,11 +15,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>List of Prerequisites</h2>
 
-- Azure Virtual Machine (Windows 10, 4vCPUs)
+- Azure Virtual Machine (Windows 10, 4vCPUs, 16 GiB memory)
 - Remote Desktop
 - Install/Enable IIS
 - PHP Manager
@@ -33,9 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-- Create Resource Group using [portal.azure.com](https://portal.azure.com/) (this holds your project content)
-- Create Virtural machines (Windows 10 VM, allow it to create a Virtual Network (Vnet))
-- Link to Resource Group, input User name, Passwords and Windows 10 version 22H2
+
 - Pick size, Standard 4 vcpus
 - VC Redist
 - MySQL
@@ -45,17 +43,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <br />
 <p>
-First, navigate to [portal.azure.com](https://portal.azure.com/), from there create a Resource group for your project (this will be where your project files are housed). Create the Virtual machine (Windows 10 Pro, version 22H2, allow it to create a Virtual Network (Vnet)).
-</p>
-<br />
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First, navigate to https://portal.azure.com, from there create a Resource group for your project (this will be where your project files are housed). Create the Virtual machine (Windows 10 Pro, version 22H2, allow it to create a Virtual Network (Vnet)). Use the already created Resource Group, input a User name and Password (this will be used to log into your Virtual Machine). Pick the size needed for your project. Note: for this project we will be using the "Standard_D4s_v3 - 4 vcpus, 16 GiB memory" (as this size vcpu will be able to navigate the resources needed to run osTicket successfully).
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://1drv.ms/i/s!Ag6o7osV3pZZdiWQiXW5U_okUj0?e=mkeVmb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
