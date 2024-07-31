@@ -34,7 +34,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 
-- Pick size, Standard 4 vcpus
 - VC Redist
 - MySQL
 - Heidi SQL
@@ -48,7 +47,8 @@ First, navigate to https://portal.azure.com, from there create a Resource group 
 <br />
 
 <p>
-!(https://imgur.com/jQJf0HL)
+![Screenshot create Resource Group](https://github.com/user-attachments/assets/9d257894-7927-4886-80cb-12658e27a0ae)
+
 </p>
 
 
