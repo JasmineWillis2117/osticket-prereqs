@@ -48,7 +48,7 @@ First, navigate to https://portal.azure.com, from there create a Resource group 
 <br />
 
 <p>
-<img src="(![jQJf0HL](https://github.com/user-attachments/assets/6581d5b7-27c2-4808-92d5-8ea8f9374c36))" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Project Screenshot](https://imgur.com/jQJf0HL)
 </p>
 
 
