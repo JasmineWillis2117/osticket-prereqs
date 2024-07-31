@@ -47,8 +47,8 @@ First, navigate to https://portal.azure.com, from there create a Resource group 
 <br />
 
 <p>
-![Screenshot create Resource Group](https://github.com/user-attachments/assets/9d257894-7927-4886-80cb-12658e27a0ae)
-
+![Main Interface](https://i.imgur.com/jQJf0HL.png)
+![Additional View](https://i.imgur.com/sakkjWI.png)
 </p>
 
 
