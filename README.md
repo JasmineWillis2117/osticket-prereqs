@@ -48,7 +48,7 @@ First, navigate to https://portal.azure.com, from there create a Resource group 
 <br />
 
 <p>
-![Project Screenshot](https://imgur.com/jQJf0HL)
+!(https://imgur.com/jQJf0HL)
 </p>
 
 
