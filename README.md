@@ -28,8 +28,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - MySQL
 - Heidi SQL
 - osTicket V1.15.8
-- Links to download: https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 (Installation Files)
-  
+- Links to download: https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 (Installation Files)</p>
+</p>
+</p>
+</p>
+</p>
+<br />
+<br />
+
 
 <h2>Installation Steps</h2>
 
@@ -153,6 +159,8 @@ Create and setup password
 </p>
 <img src="https://i.imgur.com/sMyrQMk.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/UalS5nJ.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
+</p>
+</p>
 <br />
 <br />
 <br />
@@ -170,6 +178,7 @@ Create and setup password
 <img src="https://i.imgur.com/kxqmtks.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <img src="https://i.imgur.com/gV6hZKB.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
 </p>
 </p>
 <br />
@@ -193,6 +202,8 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 </p>
 </p>
 <img src="https://i.imgur.com/8sCWHIu.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+</p>
 </p>
 <br />
 <br />
@@ -284,8 +295,6 @@ Create a database called “osTicket”
 
 <p>
 <img src="https://i.imgur.com/OtQlA7G.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/yXzCHLY.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/rEv0uIY.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p>
-</p>
-</p>
 </p>
 </p>
 </p>
