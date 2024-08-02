@@ -33,8 +33,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-- Heidi SQL
-
 
 <br />
 <p>
@@ -221,7 +219,7 @@ Refresh the osTicket site in your browse, observe the changes</b></span>
 <br />
 
 <p>
-</p> <img src="https://i.imgur.com/vI0g0Rr.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/29YQRXG.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> </p> <img src="https://i.imgur.com/47xuzM4.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p>  <img src="https://i.imgur.com/MxMukfU.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p> <img src="https://i.imgur.com/vI0g0Rr.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/29YQRXG.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> </p> <img src="https://i.imgur.com/47xuzM4.png" height="30%" width="30%" alt="Disk Sanitization Steps"/></p>  <img src="https://i.imgur.com/MxMukfU.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
 </p>
@@ -238,8 +236,11 @@ To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 <br />
 
-<p>
-</p> <img src="https://i.imgur.com/vI0g0Rr.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> </p> <img src="https://i.imgur.com/vI0g0Rr.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p>
+<p>Before
+</p> <img src="https://i.imgur.com/qRZIeJ0.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p>
+
+</p>After
+<img src="https://i.imgur.com/u9rwhJp.png" height="20%" width="20%" alt="Disk Sanitization Steps"/></p>
 </p>
 </p>
 </p>
@@ -262,7 +263,7 @@ Default email (receives email from customers)
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Yslaojy.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p>  <img src="https://i.imgur.com/tgVcG5S.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/70KcwXx.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p>
 </p>
 </p>
 </p>
@@ -273,17 +274,18 @@ Default email (receives email from customers)
 
 
 <p>
-12. download and install HeidiSQL. </p>
-Open Heidi SQL
-Create a new session, root/Password1
-Connect to the session
+12. Download and install HeidiSQL. </p>
+Open Heidi SQL</p>
+Create a new session, root/Password1</p>
+Connect to the session</p>
 Create a database called “osTicket”
-
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OtQlA7G.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/yXzCHLY.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/rEv0uIY.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p>
+</p>
+</p>
 </p>
 </p>
 </p>
@@ -299,13 +301,13 @@ Congratulations, hopefully it is installed with no errors!</p>
 
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php</p>
 
-End Users osTicket URL: http://localhost/osTicket/ 
+End Users osTicket URL: http://localhost/osTicket/
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3ynkdkB.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/KAY8XmN.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/hO7VA17.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/ogr8bxM.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p>
 </p>
 </p>
 </p>
@@ -317,14 +319,14 @@ End Users osTicket URL: http://localhost/osTicket/
 
 <p>
 14. Clean up </p>
-Delete: C:\inetpub\wwwroot\osTicket\setup
+Delete: C:\inetpub\wwwroot\osTicket\setup</p>
 Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Hm0TEo6.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p><img src="https://i.imgur.com/JMjJXcs.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/yzeWzeY.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> 
 </p>
 </p>
 </p>
@@ -333,34 +335,3 @@ Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-conf
 <br />
 <br />
 
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-</p>
-</p>
-<br />
-<br />
-<br />
-<br />
-
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-</p>
-</p>
-<br />
-<br />
-<br />
-<br />
