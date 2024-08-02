@@ -34,7 +34,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 - Heidi SQL
-- osTicket V1.15.8
 
 
 <br />
@@ -207,22 +206,22 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 9. Reload IIS (Open IIS, Stop and Start the server)
 
 Go to sites -> Default -> osTicket
-On the right, click “Browse *:80”
+On the right, click “Browse *:80”</p>
 
-Note that some extensions are not enabled
+<span style="color:black"><b> Note: that some extensions are not enabled
 Go back to IIS, sites -> Default -> osTicket
 Double-click PHP Manager
 Click “Enable or disable an extension”
 Enable: php_imap.dll
 Enable: php_intl.dll
 Enable: php_opcache.dll
-Refresh the osTicket site in your browse, observe the changes
+Refresh the osTicket site in your browse, observe the changes</b></span>
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p> <img src="https://i.imgur.com/vI0g0Rr.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> <img src="https://i.imgur.com/29YQRXG.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> </p> <img src="https://i.imgur.com/47xuzM4.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p>  <img src="https://i.imgur.com/MxMukfU.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
 </p>
@@ -240,7 +239,7 @@ To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p> <img src="https://i.imgur.com/vI0g0Rr.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p> </p> <img src="https://i.imgur.com/vI0g0Rr.png" height="40%" width="40%" alt="Disk Sanitization Steps"/></p>
 </p>
 </p>
 </p>
